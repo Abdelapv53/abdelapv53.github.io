@@ -89,7 +89,7 @@ feed_show_tags: true
 
 navbar-col: "#390669"
 navbar-text-col: "#e5dce6"
-navbar-border-col: "#390669"
+navbar-border-col: "#af8ccf"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
