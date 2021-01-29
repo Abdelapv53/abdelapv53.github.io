@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lights, Camera, Disappointment
-subtitle: How often are Horror movies actually scary?
+subtitle: What are the chances of watching a bad movie given the genre?
 gh-badge: [star, fork, follow]
 tags: [projects, movies]
 comments: true
