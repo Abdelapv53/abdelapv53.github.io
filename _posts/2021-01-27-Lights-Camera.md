@@ -13,7 +13,7 @@ So for my first actual project i decided to do my research on the [IMDb dataset]
 
 ## The Data:
 
-The Dataset is broad and extremely detailed. it contains general information and some additional measures and descriptors. Luckily, i did not have to do a lot of data cleaning . in total there was 85000+ unique observations. details of movies from all over the world with the earliest recorded movie dating 1888 (["Roundhay Garden Scene"](https://www.imdb.com/title/tt0392728/) up to the most recent ones to date.
+The Dataset is broad and extremely detailed. it contains general information and some additional measures and descriptors. Luckily, i did not have to do a lot of data cleaning . in total there was 85000+ unique observations. details of movies from all over the world with the earliest recorded movie dating 1888 (["Roundhay Garden Scene"](https://www.imdb.com/title/tt0392728/)) up to the most recent ones to date.
 
 ![dataset](/assets/img/The data.jpg)
 
@@ -34,6 +34,7 @@ All of the p-values are extremely low even at a significance level of 0.001 whic
 I've Also decided to do a box plot to visualize the means of each movie category:
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/1.embed"></iframe>
+
 
 Now that it has been established that "All movies are rated differently according to genre" i used crosstab to calculate for the conditional probability of each genre basically answering questions like "What are the chances of watching a Horror movie given that it's Good?". and to do that. i generalized my average votes into 3 different "Qualities"
 
