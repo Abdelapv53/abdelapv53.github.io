@@ -51,3 +51,6 @@ By the looks of it, 51% of all horror movies (made in the us) are rated "Bad", 4
 
 <iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe> <iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/9.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/14.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/17.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/20.embed"></iframe>
 
+## The Conclusion:
+
+The presented data tells information on how movie genres and average votes are related. There is much information unaccounted for. Some data might even be too complex or too abstract to be measured or recorded. A perfect model to predict which kinds of movies is best recommended to a user at a given time. Building it seems difficult however, it's not impossible.
