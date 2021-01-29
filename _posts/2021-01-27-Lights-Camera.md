@@ -49,5 +49,5 @@ Unsurprisingly 51% of all horror movies (made in the us) are rated "Bad", 44% ar
 
 ## The Pies:
 
-<iframe width="400" height="400" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe> <iframe width="400" height="400" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/9.embed"></iframe>
+<iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe> <iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/9.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/14.embed"></iframe>
 
