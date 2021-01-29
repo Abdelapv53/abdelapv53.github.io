@@ -7,20 +7,20 @@ tags: [projects, movies]
 comments: true
 ---
 
-I was watching a movie the other day. All of a sudden, i found myself scrolling thru facebook looking for the next corgi post that i could give my "heart react" to. Completely forgetting about the movie and how i got around watching it in the first place. Was it due to my short attention span? was it the adorable corgis? or was it because **the movie just really sucked..?**
+I was watching a movie the other day. All of a sudden, I found myself scrolling thru facebook looking for the next corgi post that I could give my _heart react_ to, completely forgetting about the movie and how I got around watching it in the first place. Was it due to my short attention span? Was it the adorable corgis?Or, was it because **the movie just really... sucked?**
 
 
 ![dataset](/assets/img/GettyImages-944229620.jpg)
 
-So for my first actual project i decided to do my research on the [IMDb dataset](https://datasets.imdbws.com/) and started with the question "How is movie genre related with average ratings?"
+So, for my first actual project, I decided to do my research on the [IMDb Dataset](https://datasets.imdbws.com/) and started with the question "How is movie genre related with average ratings?"
 
 ## The Data:
 
-The Dataset is broad and extremely detailed. It contains general information and some additional measures and descriptors. Luckily, i did not have to do a lot of data cleaning . In total there was 85000+ unique observations, details of movies from all over the world with the earliest recorded movie dating 1888 (["Roundhay Garden Scene"](https://www.imdb.com/title/tt0392728/)) up to the most recent ones to date.
+The dataset is broad and extremely detailed. It contains general information and some additional measures and descriptors. Luckily, I did not have to do a lot of data cleaning . In total there was 85000+ unique observations; details of movies from all over the world with the earliest recorded movie dating 1888 (["Roundhay Garden Scene"](https://www.imdb.com/title/tt0392728/)) up to the most recent ones to date.
 
 ![dataset](/assets/img/The data.jpg)
 
-Since it was a considerably large dataset and also to produce more specific results. I decided to shrink the dataset into just the movies produced in the USA and managed to return with a quarter of the original amount. To further make it a bit simpler, i've only decided to include the top 5 most watched movie genres: Drama, Action, Comedy, Horror and Sci-Fi.
+Since it was a considerably large dataset and also to produce more specific results. I decided to shrink the dataset into just the movies produced in the USA and managed to return with a quarter of the original amount. To further make it a bit simpler, I've also only included the top 5 most watched movie genres: Drama, Action, Comedy, Horror and Sci-Fi.
 
 ## The Tests:
 
@@ -32,14 +32,14 @@ I conducted the t-test and came up with the following p-values
 
 ![p-values](/assets/img/pvalues.jpg)
 
-All of the p-values are extremely low even at a significance level of 0.001, which means the Null Hypothesis will be rejected and i will fail to reject my Alternative hypothesis stating that "The mean of all movies is not equal to the mean of all the movies when classified by genre"
+All of the p-values are extremely low even at a significance level of 0.001, which means the Null Hypothesis will be rejected and I will fail to reject my Alternative hypothesis stating that "The mean of all movies is not equal to the mean of all the movies when classified by genre"
 
 I've Also decided to do a box plot to visualize the means of each movie category:
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/1.embed"></iframe>
 
 
-Now that it has been established that "All movies are rated differently according to genre", I used crosstab to calculate for the conditional probability of each genre basically answering questions like "What are the chances of watching a Horror movie given that it's Good?". And to do that, i generalized my average votes into 3 different "Qualities"
+Now that it has been established that "All movies are rated differently according to genre", I used crosstab to calculate for the conditional probability of each genre basically answering questions like "What are the chances of watching a Horror movie given that it's Good?". And to do that, I generalized my average votes into 3 different "Qualities"
 
 ![Quality](/assets/img/badokgood.jpg)
 
@@ -48,7 +48,7 @@ Now that it has been established that "All movies are rated differently accordin
 
 ![crosstab](/assets/img/crosstab.jpg)
 
-By the looks of it, 51% of all horror movies (made in the us) are rated "Bad", 44% are "Okay" and about 5% will potentially leave you traumatized. **forever.**
+By the looks of it, 51% of all horror movies (made in the us) are rated "Bad", 44% are "Okay" and about 5% will potentially leave you traumatized, **forever.**
 
 ## The Pies:
 
