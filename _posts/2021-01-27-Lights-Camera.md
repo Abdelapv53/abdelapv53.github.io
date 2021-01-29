@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lights, Camera, Disappointment
-subtitle: How often are horror movies *actually* scary?
+subtitle: How often are horror movies _actually_ scary?
 gh-badge: [star, fork, follow]
 tags: [projects, movies]
 comments: true
