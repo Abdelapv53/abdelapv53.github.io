@@ -23,11 +23,11 @@ Since it was a considerably large dataset and also to produce more specific resu
 
 I figured a t-test would be appropriate to see if the sample mean(genre) is equal to the total population mean(movies made in usa). with the population mean of 5.56 my Null and Alternative hypotheses would look like this:
 
-#Null and Alt pic
+![Hypotheses](/assets/img/hypothesis.jpg)
 
 I conducted the test and came up with the following p-values
 
-#P-values pic
+![p-values](/assets/img/pvalues.jpg)
 
 All of the p-values are extremely low even at a significance level of 0.001 which means the Null Hypothesis will be rejected and i will fail to reject my Alternative hypothesis stating that "The mean of all movies is not equal to the mean of all the movies when classified by genre"
 
@@ -37,12 +37,12 @@ I've Also decided to do a box plot to visualize the means of each movie category
 
 Now that it has been established that "All movies are rated differently according to genre" i used crosstab to calculate for the conditional probability of each genre basically answering questions like "What are the chances of watching a Horror movie given that it's Good?". and to do that. i generalized my average votes into 3 different "Qualities"
 
-#Quality pic
+![Quality](/assets/img/badokgood.jpg)
 
 {: .box-note}
 ***Disclaimer:*** these are all flexible variables based on personal preference. i had to simplify the ratings in a way that it would make more sense.
 
-#Crosstab pic
+![crosstab](/assets/img/crosstab.jpg)
 
 and finally, some pie :)
 
