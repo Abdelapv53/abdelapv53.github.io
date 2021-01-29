@@ -25,7 +25,7 @@ I figured a t-test would be appropriate to see if the sample mean(genre) is equa
 
 ![Hypotheses](/assets/img/hypothesis.jpg)
 
-I conducted the test and came up with the following p-values
+I conducted the t-test and came up with the following p-values
 
 ![p-values](/assets/img/pvalues.jpg)
 
@@ -33,7 +33,10 @@ All of the p-values are extremely low even at a significance level of 0.001 whic
 
 I've Also decided to do a box plot to visualize the means of each movie category:
 
-#plotly box plot
+<div>
+    <a href="https://plotly.com/~AltruisticVigilante/1/?share_key=1AdpPTM1aJm2pS0VjMc1Ze" target="_blank" title="movie genre boxplot" style="display: block; text-align: center;"><img src="https://plotly.com/~AltruisticVigilante/1.png?share_key=1AdpPTM1aJm2pS0VjMc1Ze" alt="movie genre boxplot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="AltruisticVigilante:1" sharekey-plotly="1AdpPTM1aJm2pS0VjMc1Ze" src="https://plotly.com/embed.js" async></script>
+</div>
 
 Now that it has been established that "All movies are rated differently according to genre" i used crosstab to calculate for the conditional probability of each genre basically answering questions like "What are the chances of watching a Horror movie given that it's Good?". and to do that. i generalized my average votes into 3 different "Qualities"
 
