@@ -15,7 +15,7 @@ So for my first actual project i decided to do my research on the [IMDb dataset]
 
 The Dataset is broad and extremely detailed. it contains general information and some additional measures and descriptors. Luckily, i did not have to do a lot of data cleaning . in total there was 85000+ unique observations. details of movies from all over the world with the earliest recorded movie dating 1888 (["Roundhay Garden Scene"](https://www.imdb.com/title/tt0392728/) up to the most recent ones to date.
 
-/assets/img/The data.jpg
+![dataset](/assets/img/The data.jpg)
 
 Since it was a considerably large dataset and also to produce more specific results. i decided to shrink the dataset into just the movies produced in the USA and managed to return with a quarter of the original amount. to further make it a bit simpler. i've only decided to include the top 5 most watched movie genres: Drama, Action, Comedy, Horror and Sci-Fi.
 
