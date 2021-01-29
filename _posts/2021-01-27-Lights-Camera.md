@@ -7,7 +7,7 @@ tags: [projects, movies]
 comments: true
 ---
 
-I was watching a movie the other day. All of a sudden, I found myself scrolling thru facebook looking for the next corgi post that I could give my _heart react_ to, completely forgetting about the movie and how I got around watching it in the first place. Was it due to my short attention span? Was it the adorable corgis?Or, was it because **the movie just really... sucked?**
+I was watching a movie the other day. All of a sudden, I found myself scrolling thru facebook looking for the next corgi post that I could give my _heart react_ to, completely forgetting about the movie and how I got around watching it in the first place. Was it due to my short attention span? Was it the adorable corgis? Or, was it because **the movie just really... sucked?**
 
 
 ![dataset](/assets/img/GettyImages-944229620.jpg)
