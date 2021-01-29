@@ -45,9 +45,9 @@ Now that it has been established that "All movies are rated differently accordin
 
 ![crosstab](/assets/img/crosstab.jpg)
 
-Unsurprisingly 51% of all horror movies (made in the us) are rated "Bad", 44% are "Okay" and about 5% will potentially leave you traumatized. forever.
+By the looks of it, 51% of all horror movies (made in the us) are rated "Bad", 44% are "Okay" and about 5% will potentially leave you traumatized. **forever.**
 
 ## The Pies:
 
-<iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe> <iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/9.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/14.embed"></iframe>
+<iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe> <iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/9.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/14.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/17.embed"></iframe><iframe width="350" height="350" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/20.embed"></iframe>
 
