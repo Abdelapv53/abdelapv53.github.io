@@ -9,7 +9,7 @@ comments: true
 
 I was watching a movie the other day all of a sudden, i found myself scrolling thru facebook looking for the next corgi post that i could give my "heart react" to. Completely forgetting about the movie and/or why i watched it in the first place. Was it because of my lack of attention span? Was it the adorable corgis? Or was it because **the movie just really sucked..?**
 
-So for my first actual project i decided to do my research on the IMDb dataset:https://datasets.imdbws.com/ and started with the question "How is movie genre related with average ratings?"
+So for my first actual project i decided to do my research on the [IMDb dataset](https://datasets.imdbws.com/) and started with the question "How is movie genre related with average ratings?"
 
 ## The Data:
 
