@@ -20,7 +20,7 @@ The dataset is broad and extremely detailed. It contains general information and
 
 ![dataset](/assets/img/The data.jpg)
 
-Since it was a considerably large dataset and also to produce more specific results. I decided to shrink the dataset into just the movies produced in the USA and managed to return with a quarter of the original amount. To further make it a bit simpler, I've also only included the top 5 most watched movie genres: Drama, Action, Comedy, Horror and Sci-Fi.
+Since it was a considerably large dataset and also to produce more specific results, I decided to shrink the dataset into just the movies produced in the USA and managed to return with a quarter of the original amount. To further make it a bit simpler, I've also only included the top 5 most watched movie genres: Drama, Action, Comedy, Horror and Sci-Fi.
 
 ## The Tests:
 
