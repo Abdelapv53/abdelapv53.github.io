@@ -22,11 +22,11 @@ The features contained Basic listing features (number of beds, maximum guests & 
 ## The Models:
 
 After splitting the data and Identifying the baseline. Since it's a regression problem, I primarily used a Ridge Regression model and then began on preparing the other two tree based models; RandomForestRegressor and XGBRegressor.
-![RFRegressor](/assets/img/MetricsRFU2.jpg)
+![RFRegressor](/assets/img/MetricsRFU2.JPG)
 20 minutes of hyperparameter tuning later the Random Forest Regressor performed best among the three models.
 
 ## Communicating Results:
 
 Based on the dataset. The two most distinguishing factors of how much the price of an AirBnB would be are The number of bedrooms and the number of guests that could be accomodated
 
-![RFRegressor](/assets/img/pdpu2.jpg)
+![RFRegressor](/assets/img/pdpu2.JPG)
