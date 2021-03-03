@@ -33,6 +33,6 @@ Based on the dataset. The two most distinguishing factors of how much the price 
 
 Another Thing that i got around asking myself was "Is location key? When it comes to AirBnB prices?"
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe>
 
-
+I didn't want to overcrowd my datapoints so i only took a look at 200 observations and focused on low budget rentals ranging from 2000-16000JPY (Roughly $20-$150)
