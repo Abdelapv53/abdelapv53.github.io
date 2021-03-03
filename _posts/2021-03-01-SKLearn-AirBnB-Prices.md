@@ -27,6 +27,12 @@ After splitting the data and Identifying the baseline. Since it's a regression p
 
 ## Communicating Results:
 
-Based on the dataset. The two most distinguishing factors of how much the price of an AirBnB would be are The number of bedrooms and the number of guests that could be accomodated
+Based on the dataset. The two most distinguishing factors of how much the price of an AirBnB would be are The number of bedrooms and the number of guests that could be accommodated.
 
-![RFRegressor](/assets/img/pdpu2.JPG)
+![Partialdependancy](/assets/img/pdpu2.JPG)
+
+Another Thing that i got around asking myself was "Is location key? When it comes to AirBnB prices?"
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~AltruisticVigilante/3.embed"></iframe>
+
+
