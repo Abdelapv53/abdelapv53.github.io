@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Tree Based Model to Optimize Tokyo AirBnB Prices
+title: Using Tree Based Model to Calculate Tokyo AirBnB Prices
 subtitle: How to get a comfier bang for your buck
 gh-badge: [star, fork, follow]
 tags: [projects, travel, tokyo]
